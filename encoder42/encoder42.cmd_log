@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/admin/Desktop/encoder42/encoder42.xst" -ofn "C:/Users/admin/Desktop/encoder42/encoder42.syr" 

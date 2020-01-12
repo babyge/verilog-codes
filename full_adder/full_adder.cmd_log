@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/admin/Desktop/GG_VLSI/full_adder/full_adder.xst" -ofn "C:/Users/admin/Desktop/GG_VLSI/full_adder/full_adder.syr" 

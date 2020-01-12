@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/admin/Desktop/GG_VLSI/t_ff/t_ff.xst" -ofn "C:/Users/admin/Desktop/GG_VLSI/t_ff/t_ff.syr" 

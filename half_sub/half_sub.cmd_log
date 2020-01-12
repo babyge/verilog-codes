@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/admin/Desktop/GG_VLSI/half_sub/half_sub.xst" -ofn "C:/Users/admin/Desktop/GG_VLSI/half_sub/half_sub.syr" 

@@ -1,0 +1,29 @@
+Command line:
+   subtraction_2s_comp_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  55660
+
+Fri Jan 10 10:35:15 2020
+
+
+ Elaboration Time: 0.0312 sec
+
+ Current Memory Usage: 497.848 Meg
+
+ Total Signals          : 13
+ Total Nets             : 24
+ Total Signal Drivers   : 6
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 8
+ Total Traceable Variables  : 20
+ Total Scalar Nets and Variables : 141
+Total Line Count : 25
+
+ Total Simulation Time: 0.187201 sec
+
+ Current Memory Usage: 497.848 Meg
+
+Fri Jan 10 10:43:19 2020
+

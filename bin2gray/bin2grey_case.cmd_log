@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/admin/Desktop/GG_VLSI/bin2gray/bin2grey_case.xst" -ofn "C:/Users/admin/Desktop/GG_VLSI/bin2gray/bin2grey_case.syr" 

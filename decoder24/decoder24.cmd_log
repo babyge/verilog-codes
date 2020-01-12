@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/admin/Desktop/GG_VLSI/decoder24/decoder24.xst" -ofn "C:/Users/admin/Desktop/GG_VLSI/decoder24/decoder24.syr" 
