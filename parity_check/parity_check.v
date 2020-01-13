@@ -28,13 +28,13 @@ module parity_check(
 	 begin
 	 for(i=0;i<8;i=i+1)
 	 begin
-	 if(a[i]==0)
+	 if(a[i]==1)
 	 c=c+1;
 	 end
 	 if(c%2==0)
-	 y=1'b1;
-	 else
 	 y=1'b0;
+	 else
+	 y=1'b1;
 	 end
 	 
 	 
